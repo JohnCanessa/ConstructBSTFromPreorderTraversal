@@ -6,7 +6,7 @@ Includes test scaffolding.
 
 If interested in my approach and comments please visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/11/23/construct-binary-search-tree-from-pre-order-traversal/
 
 Keep on reading and experiemnting, it is the best way to lear.
 
